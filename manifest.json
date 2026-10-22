@@ -1,0 +1,20 @@
+{
+  "id": "./index.html",
+  "name": "BTSSS",
+  "short_name": "BTSSS",
+  "description": "BTSSS — 3D гра",
+  "lang": "uk",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#07080a",
+  "theme_color": "#07080a",
+  "categories": ["games"],
+  "icons": [
+    {"src": "icon-192-1.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512-1.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512-1.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
